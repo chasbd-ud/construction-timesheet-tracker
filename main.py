@@ -9,8 +9,7 @@ from bakery import assert_equal
 
 set_site_information(
     author="chasbd@udel.edu",
-    description="A construction site timesheet tracker that "
-                "records worker hours and summarizes labor.",
+    description= "A construction site timesheet tracker that records worker hours and summarizes labor.",
     sources=["Drafter documentation and CS1 course materials.", "LLMDocumentation.pdf"],
     planning= ["planning0.pdf", "planning1.pdf"],
     links=["https://github.com/chasbd-ud/construction-timesheet-tracker"]
